@@ -1,6 +1,3 @@
-## 深度优先算法
-
-## 递归算法
 visited = set()
 def dfs(node, visited):
     visited.add(node)

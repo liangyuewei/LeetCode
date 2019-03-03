@@ -1,5 +1,3 @@
-# Given a linked list, determine if it has a cycle in it.
-
 class Solution(object):
     def linked_list_cycle(self, head):
         fast = slow = head

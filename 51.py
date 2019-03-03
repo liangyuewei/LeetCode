@@ -1,5 +1,3 @@
-## N皇后问题
-
 class Solution(object):
     def solveNQueens(self, n):
         if n < 1: return

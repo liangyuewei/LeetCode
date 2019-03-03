@@ -1,2 +1,2 @@
 # LeetCode
-leetcode
+    https://leetcode.com/problemset/algorithms/

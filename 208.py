@@ -1,5 +1,3 @@
-## 实现一个字典树
-
 class Trie(object):
     def __init__(self):
         self.root = {}

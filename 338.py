@@ -1,5 +1,3 @@
-## 统计比特位
-
 class Solution(object):
     def countbits(self, num):
         result = [0, 1]

@@ -1,5 +1,3 @@
-## 广度优先搜索
-
 def bfs(graph, start, end):
     queue = []
     queue.append([start])
